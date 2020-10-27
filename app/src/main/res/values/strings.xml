@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">forcaUniso</string>
+    <string name="mensagem_palavra">Palavra</string>
+    <string name="mensagem_tentativas">Palavra oculta</string>
+    <string name="hint_tentativas">quantidade de chances</string>
+    <string name="hint_palavra">Palavra oculta</string>
+    <string name="botao_jogar">COMEÇAR JOGO</string>
+</resources>
